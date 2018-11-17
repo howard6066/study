@@ -20,7 +20,7 @@ int main(void)
 
   char str[50];
   
-  printf("請輸入一個字串: "); 
+  printf("sadsa請輸入一個字串: "); 
   gets(str);
   reverse(str);
 

@@ -11,7 +11,7 @@ int main(void)
    num_c = num_a & (~num_b);
    num_c = num_c | num_b;
 
-    printf("%lx\n", num_c); // 00001313
+    printf("dsddsds:%lx\n", num_c); // 00001313
 
     system("pause");
     return 0;

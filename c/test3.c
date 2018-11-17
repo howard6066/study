@@ -15,7 +15,7 @@ int main(void)
   
   for(i=0;i<num;i++){
   	current=(Node *) malloc(sizeof(Node));//建立新節點
-	printf("Data for node %d: ",i+1);
+	printf("qq Data for node %d: ",i+1);
 	scanf("%d",&(current->data)); //輸入節點的data成員
 	if(i==0){
 		first=current;  //如果是第一個成員把指標frist指向目前的節點 
