@@ -26,7 +26,7 @@ int main(void)
     
     printf("s1.name=%s, s1.math=%d\n",s1.name, s1.math);
     printf("s2.name=%s, s2.math=%d\n",s2.name, s2.math);
-    printf("gg inin der \n");
+    
 
     system("pause");
     return 0;
