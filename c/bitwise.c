@@ -23,7 +23,7 @@ int main()
     int a = 0xfafc; //求第九個bit值是多少
     int c= (a >> 8) &1;
     printf("第九個bit值:%x\n",c);
-    
+    printf("merge test");
     system("pause");
     return 0;
 }
